@@ -16,15 +16,13 @@ The NEST program is facilitated on-site and flexible in delivery, workshops can 
 
 Training is also offered to staff, cooks and volunteers at charitable organisations, to help increase understanding and improve skills on using food delivered by OzHarvest or to support existing programs already in place. After each workshop, participants share a nourishing meal together encouraging social inclusiveness and enhance community connections.
 
-
-
-### WHERE IS NEST DELIVERED?
+### Where is NEST delivered?
 
 NEST is delivered to charitable agencies including refuges, rehabilitation and community centres, crisis accommodation, TAFE outreach programs, youth services, special schools, medical support agencies and organisations supporting low socio-economic areas.
 
 The NEST program is currently running in Adelaide, Brisbane, Cairns, Canberra, Gold Coast, Melbourne, Newcastle, Perth, Sydney and regional locations in QLD and NSW.
 
-### OBJECTIVES
+### Objectives
 
 * Improve knowledge about and skills around low cost, nutritious healthy eating choices and minimising food waste
 * Improve food purchasing and preparation behaviours for self-sufficiency, independence and better health and life habits
@@ -32,7 +30,7 @@ The NEST program is currently running in Adelaide, Brisbane, Cairns, Canberra, G
 * Up-skill staff and volunteers within charitable agencies to prepare nutritious meal options
 * Provide additional opportunities for skilled volunteers to engage with OzHarvest
 
-### **ALEX’S STORY**
+### **Alex's Story**
 
 When Alex joined a NEST workshop, he was unsure where his life was heading and what opportunities were available to him. He had been living on the streets, and in his car prior to securing temporary accommodation. Through NEST he discovered a love of cooking, where he showed natural talent and decided to aim for a job within the food industry.
 

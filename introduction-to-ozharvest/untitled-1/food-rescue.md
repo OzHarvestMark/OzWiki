@@ -15,33 +15,33 @@ OzHarvest HQ is in Sydney, with operations in Adelaide, Brisbane, Cairns, Canber
 
 If you’re an agency interested in receiving food from OzHarvest please find out more and apply [here](https://www.ozharvest.org/what-we-do/agencyonline/).
 
-### FOOD DONOR FAQS
+## Food Donor FAQs
 
-**What food can OzHarvest collect?**
+### **What food can OzHarvest collect?**
 
 We can collect almost anything suitable for human consumption, as long as it’s food safe. Fruit and vegetables, meat, cooked meals and prepacked vacuum items, dry goods, cakes and baked goods, drinks, dairy and eggs.
 
-**What food can’t OzHarvest collect?**  
+#### **What food can’t OzHarvest collect?**  
 
 High risk foods \(including shellfish and cooked rice\), anything containing alcohol and food prepared by a non-certified person. Bread is also a challenge to re-distribute due to huge wastage volumes in Australia. For this reason, we’re currently at capacity taking bread donations.
 
-**What packaging should I use to donate food?** 
+#### **What packaging should I use to donate food?** 
 
 All vans carry re-usable food safe containers which are used to pack all perishable items.
 
-**Can OzHarvest take food past “use by” dates?**
+#### **Can OzHarvest take food past “use by” dates?**
 
 No. Unfortunately this is no longer food safe. However, some meats can be frozen on this date and remain food safe.
 
-**Can OzHarvest take food past “best before” dates?**
+#### **Can OzHarvest take food past “best before” dates?**
 
 Yes! We can collect certain foods past the best before dates, if the food is still in good condition and food safe. Generally, three months past is a safe rule, however please call to discuss.
 
-**Can OzHarvest collect from private households?** 
+#### **Can OzHarvest collect from private households?** 
 
 No. Unfortunately there are food safety complications around this, and OzHarvest is not set up logistically to collect from households.
 
-**What is my obligation re food safety laws?**
+#### **What is my obligation re food safety laws?**
 
 Under the Civil Liberties Amendment Act, businesses donating food are protected from liability \(Ronni Kahn lobbied government to have legislation changed back in 2005\).  Please ensure food has been prepared and handled within food safety guidelines and check your local state legislation for more information.
 

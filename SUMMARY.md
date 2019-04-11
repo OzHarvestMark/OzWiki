@@ -2,6 +2,7 @@
 
 * [OzHarvest Wiki](README.md)
 * [Updates](updates.md)
+* [New Starter Checklsit](new-starter-checklsit.md)
 
 ## Introduction to OzHarvest
 
@@ -9,15 +10,15 @@
   * [Food Rescue](introduction-to-ozharvest/untitled-1/food-rescue.md)
   * [FEAST](introduction-to-ozharvest/untitled-1/untitled-3.md)
   * [NEST](introduction-to-ozharvest/untitled-1/untitled-2.md)
-  * [NOURISH](introduction-to-ozharvest/untitled-1/untitled-1.md)
-  * [OZHARVEST MARKET](introduction-to-ozharvest/untitled-1/untitled.md)
+  * [Nourish](introduction-to-ozharvest/untitled-1/untitled-1.md)
+  * [OzHarvest Market](introduction-to-ozharvest/untitled-1/untitled.md)
 * [Our Family](introduction-to-ozharvest/our-family.md)
-* [Troubleshooting](introduction-to-ozharvest/troubleshooting.md)
 
 ## OzHarvest Knowledge Base
 
 * [Introduction](ozharvest-knowledge-base/introduction.md)
 * [User Guide](ozharvest-knowledge-base/user-guide.md)
+* [Troubleshooting](ozharvest-knowledge-base/troubleshooting.md)
 * [FAQ](ozharvest-knowledge-base/faq.md)
 
 ## Food Rescue App

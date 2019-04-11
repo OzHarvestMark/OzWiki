@@ -1,4 +1,4 @@
-# OZHARVEST MARKET
+# OzHarvest Market
 
 The OzHarvest Market is Australia’s first ever rescued food supermarket, stocked with produce that has either been donated or would otherwise go to waste, but is perfectly edible. Based on a ‘take what you need, give if you can’ philosophy, our purpose is to make rescued food available to everyone, especially those who need it most.
 
@@ -20,17 +20,17 @@ Corporate volunteering groups are also welcome in the market, [click here for a 
 
 For more information contact [sydney.info@ozharvest.org](mailto:sydney.info@ozharvest.org)
 
-### FAQ
+## FAQ
 
-**What is available in the OzHarvest Market?**
+#### **What is available in the OzHarvest Market?**
 
 We rescue perfectly good food that can’t be sold by supermarkets, food retailers and many other businesses, but is still within its ‘use by’ date. Some products are kindly donated for a variety of commercial reasons, such as change in packaging or over orders. What we have in-store will vary each week depending on what is rescued or provided by our generous food donors.
 
-**How much does it cost?**
+#### **How much does it cost?**
 
 Our philosophy is ‘take what you need, give what you can’. If you can’t afford to pay and you’re in need of food, please take what you need. If you can give something, then please do; every dollar donated can help OzHarvest provide two meals to Australians in need.
 
-**How does it work?**
+#### **How does it work?**
 
 * Pick up a shopping basket on your way in
 * Fill it with a variety of nutritious foods – our volunteers are on hand to help
@@ -39,11 +39,11 @@ Our philosophy is ‘take what you need, give what you can’. If you can’t af
 * Make a small donation if you can
 * Remember to bring your own shopping bag!
 
-**Where do the donations go?**
+#### **Where do the donations go?**
 
 All donations from the OzHarvest Market will help OzHarvest feed more Australians in need! All food and produce in the store is donated free of charge, as is the retail space \(thanks to TOGA!\). That means every dollar you spend in the OzHarvest Market equals two meals we can deliver to vulnerable women, children & men across the country.
 
-**Why open a surplus food supermarket?**
+#### **Why open a surplus food supermarket?**
 
 A number of reasons:
 
@@ -52,7 +52,7 @@ A number of reasons:
 * To raise money for OzHarvest to support our work rescuing and redistributing surplus food
 * It’s an innovative and effective way of redistributing good food that would otherwise go to waste.
 
-**Is this the first surplus food supermarket in Australia?**
+#### **Is this the first surplus food supermarket in Australia?**
 
 Yes! It’s the first one that operates on a ‘take what you need, pay what you can’ model. We were inspired by the [world’s first surplus food supermarket](https://donate.danchurchaid.org/wefood) which opened in Denmark in 2016.
 
