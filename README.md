@@ -28,10 +28,3 @@ Do you know what Apple, Google, Microsoft, Facebook and Amazon all have in commo
 
 Not sure where to start? Follow one of the links below to find out more.
 
-* [Introduction to OzHarvest](http://52.64.184.108/oz-harvest/what-we-do)
-* [Food Waste Rescue](http://52.64.184.108/food-waste/introduction)
-* [Sharing Content Externally](http://52.64.184.108/oz-harvest/what-we-do)
-* [Writing Articles](http://52.64.184.108/oz-harvest/what-we-do)
-* [Editing Articles](http://52.64.184.108/oz-harvest/what-we-do)
-* [Searching for Articles](http://52.64.184.108/oz-harvest/what-we-do)
-
