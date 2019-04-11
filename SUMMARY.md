@@ -20,5 +20,9 @@
 * [Introduction](food-rescue/introduction.md)
 * [Recruitment](food-rescue/recruitment.md)
 * [Support](food-rescue/support.md)
-* [Reporting](food-rescue/reporting.md)
+* [Reporting](food-rescue/reporting/README.md)
+  * [Introduction](food-rescue/reporting/introduction.md)
+  * [Changelog](food-rescue/reporting/changelog.md)
+  * [User Guide](food-rescue/reporting/user-guide.md)
+  * [FAQs](food-rescue/reporting/faqs.md)
 
