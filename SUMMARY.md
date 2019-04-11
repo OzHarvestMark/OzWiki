@@ -5,7 +5,12 @@
 
 ## Introduction to OzHarvest
 
-* [What We Do](introduction-to-ozharvest/untitled-1.md)
+* [What We Do](introduction-to-ozharvest/untitled-1/README.md)
+  * [Food Rescue](introduction-to-ozharvest/untitled-1/food-rescue.md)
+  * [FEAST](introduction-to-ozharvest/untitled-1/untitled-3.md)
+  * [NEST](introduction-to-ozharvest/untitled-1/untitled-2.md)
+  * [NOURISH](introduction-to-ozharvest/untitled-1/untitled-1.md)
+  * [OZHARVEST MARKET](introduction-to-ozharvest/untitled-1/untitled.md)
 * [Our Family](introduction-to-ozharvest/our-family.md)
 * [Troubleshooting](introduction-to-ozharvest/troubleshooting.md)
 
