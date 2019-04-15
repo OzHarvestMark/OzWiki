@@ -7,7 +7,6 @@
 
 * [Introduction](ozharvest-knowledge-base/introduction.md)
 * [User Guide](ozharvest-knowledge-base/user-guide.md)
-* [Troubleshooting](ozharvest-knowledge-base/troubleshooting.md)
 * [FAQ](ozharvest-knowledge-base/faq.md)
 
 ## Food Rescue App

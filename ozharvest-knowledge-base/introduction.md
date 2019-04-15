@@ -1,12 +1,41 @@
 # Introduction
 
-In the OzHarvest Knowledge Base, a space is the documentation site for one of your project. Each space then contains as many articles as you want \(**pages**\). They will all appear in the **Table of Contents \(ToC\)** on the left.
+## Logging In
 
-![Pages are organized in the Table of Contents on the left.](../.gitbook/assets/image.png)
+To get started accessing the OzWiki, please proceed to [https://app.gitbook.com/@ozharvest/](https://app.gitbook.com/login/ozharvest?location=s) to login
 
-## Types of Entries
+![Login Page for OzHarvest Wiki](../.gitbook/assets/image%20%287%29.png)
 
+## Spaces
 
+In the OzHarvest Knowledge Base, a space is the documentation site for one of your project.  Spaces should be separated into be based into the following categories
+
+* _**Internal \(General\)**_ - Information open to the whole organisation
+  * HR Policies, On-boarding Information, Software, Department Processes
+* _**Internal \(Private\)**_ - Sensitive Information only accessible by one department/role
+  * Board Reports, Financial Information, Staff Information, Working Documents
+* _**External \(General\)**_ **-** Information open to the world
+  * Yearly Reports, How-To's, Guides, Tutorials
+* **External \(Private\)** - Information for specific external groups
+  * Volunteers, Donors, Agencies
+
+To create a new space, please contact your Wiki administrator
+
+![Current Spaces in OzWiKI](../.gitbook/assets/image%20%282%29.png)
+
+### Inside a Space
+
+Once inside a space, you will be able to preview the Wiki as it currently stands. To edit content, you only need to click the pencil button on the bottom right.
+
+![Admin Panel for a Space](../.gitbook/assets/image%20%284%29.png)
+
+## Pages
+
+They will all appear in the **Table of Contents \(ToC\)** on the left for each space
+
+![Pages are organized in the Table of Contents on the left.](../.gitbook/assets/image%20%285%29.png)
+
+## Types of Posts
 
 Pages can be nested and grouped. But before that you should know about the three different types of entry that you can put in the Table of Contents:
 
