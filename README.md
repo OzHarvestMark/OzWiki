@@ -1,30 +1,24 @@
 ---
-description: A Source of all things relating to OzHarvest
+description: >-
+  The OzHarvest knowledge base is documentation platform where teams can
+  document everything from products, to APIs and internal knowledge-bases.
 ---
 
-# OzHarvest Wiki
+# Welcome
 
-OzHarvest is Australia’s leading food rescue organisation, collecting quality excess food from commercial outlets and delivering it directly to more than 1300 charities supporting people in need across the country
+{% hint style="info" %}
+ This is the documentation for the Food Rescue Logistics Team. You can learn more about everything about what we do & how we do it, you can find it here. If you need help, please contact info@ozharvest.org 
+{% endhint %}
 
-## The OzHarvest WIKI
+### Getting Started
 
-Imagine this…it’s your first day in a new job, and a cord gets plugged into your head. \(OK, admittedly, that’s a creepy thought, but bear with us for a sec.\) All the knowledge about how to do your new job is seamlessly transferred to you, just like how Neo learns kung fu in the Matrix. You’d save weeks learning the ins-and-outs of your new role, save time for your team by not having to ask questions, and you’d be immediately productive on day one.
+Learn about how to create, write, read & search for articles
 
-### What’s a workplace wiki?
+{% page-ref page="ozharvest-knowledge-base/introduction.md" %}
 
-A workplace wiki is a central database of knowledge. It’s a place where all your coworkers can store internal documentation about processes, projects or products they’re building. You can think of as Wikipedia or Google for your company. Don’t know how to do something? Just look it up on the internal wiki.
+Check out our Frequently Asked Questions too:
 
-Ideally, everyone on the team contributes to your workplace wiki on a regular basis, adding and updating information. After all, everyone is an expert in something. So everyone has something to contribute: a process no one else knows, info about a client, or details on your old pricing plan. By getting everyone involved, you increase your entire team’s collective wisdom, \(and reduce the time people spend hunting around for what they need!\)
+{% page-ref page="ozharvest-knowledge-base/faq.md" %}
 
-### Why we use a workplace wiki?
 
-Do you know what Apple, Google, Microsoft, Facebook and Amazon all have in common? If you guessed they are five of the largest companies by market cap in the world, you’d be right. If you guessed they all used internal wikis, you’d also be right. They all recognize that they can move faster and achieve more by sharing knowledge.
-
-* Onboard new team members faster
-* 19% of our time is spent searching for [information](http://www.mckinsey.com/industries/high-tech/our-insights/the-social-economy)
-* Knowledge doesn’t leave with people
-
-## Getting Started
-
-Not sure where to start? Follow one of the links below to find out more.
 
