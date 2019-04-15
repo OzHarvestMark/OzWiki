@@ -84,5 +84,13 @@ To save your changes, just click the green tick on the bottom right, this will s
 
 ##  Publishing Your Work
 
+To publish your work. After you click save. Scroll over to the Merge button on the right hand menu and this publish your content to the entire organisation
 
+![](../.gitbook/assets/ezgif-5-5933c5ce59af.gif)
+
+## Leaving Comments
+
+To leave a comment, just click the leave a comment bubble placed to the right of the section you wish to comment. These comments are only visible to writers & editors.
+
+![](../.gitbook/assets/ezgif-5-aca1a6abef04.gif)
 
