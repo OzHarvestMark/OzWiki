@@ -19,4 +19,6 @@
   * [Changelog](food-rescue/reporting/changelog.md)
   * [User Guide](food-rescue/reporting/user-guide.md)
   * [FAQs](food-rescue/reporting/faqs.md)
+* [Fleets](food-rescue/fleets/README.md)
+  * [Fleet Details by Rego](food-rescue/fleets/fleet-details-by-rego.md)
 
