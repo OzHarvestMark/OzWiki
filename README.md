@@ -6,5 +6,5 @@ description: >-
 
 # Welcome
 
-&lt;h1&gt;Hello&lt;/h1&gt;
+&lt;/span&gt;&lt;h1&gt;Hello&lt;/h1&gt;&lt;span&gt;
 
